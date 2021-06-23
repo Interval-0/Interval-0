@@ -33,6 +33,7 @@
 ## 🎓 진행중 프로젝트
 - CDKEY 전자상거래 프로젝트
 - 고사양 Cloud PC 프로
+- 대용량 요청 수용 최적화 웹서버
 ---
 
 <!-- markdownlint-disable MD033 -->
