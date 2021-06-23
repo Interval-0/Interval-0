@@ -40,13 +40,6 @@
 
 </details>
 
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
-
-</details>
-
 <!-- markdownlint-enable MD033 -->
 
 Last Edited on: 2021/06/23
