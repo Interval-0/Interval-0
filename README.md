@@ -15,7 +15,8 @@
 
 ## *Networks
 - AWS (Amazon AWS)
-- Layer-4 DDoS Migration
+- Layer-4 DDoS Migration (With ML Stack)
+- Layer-7 DDoS Migration (With ML Stack)
 
 ## *Machine Learning
 - MLOps (Machine Learning Operation)
@@ -29,6 +30,9 @@
 - Kubernetes
 - Docker
 
+## 🎓 진행중 프로젝트
+- CDKEY 전자상거래 프로젝트
+- 고사양 Cloud PC 프로
 ---
 
 <!-- markdownlint-disable MD033 -->
