@@ -1,16 +1,52 @@
-### Hi there 👋
+# 안녕하세요, Interval-0 (한상엽)입니다.
 
-<!--
-**Interval-0/Interval-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+청소년 스타트업을 기획하고, 주로 Front-end 개발을 맡고 있습니다.
 
-Here are some ideas to get you started:
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/syuph)[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGYi6fNKgnxLCk85xskEwaQ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :muscle: CloudPC 신사업을 기획하고 있습니다.
+- :dart: (전) CEO @ cloudlayer
+
+## :wrench: 기술
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![React](https://img.icons8.com/color/30/react-native.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png))![Console](https://img.icons8.com/color/30/console.png)
+
+## 🎓 관심사
+
+## *Networks
+- AWS (Amazon AWS)
+- Layer-4 DDoS Migration
+
+## *Machine Learning
+- MLOps (Machine Learning Operation)
+
+## *Web
+- Vue.js
+- Express.js
+- Spring.js
+
+## *Deployment
+- Kubernetes
+- Docker
+
+---
+
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Interval-0)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+
+</details>
+
+<!-- markdownlint-enable MD033 -->
+
+Last Edited on: 2021/06/23
