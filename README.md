@@ -22,9 +22,11 @@
 - MLOps (Machine Learning Operation)
 
 *Web*
+- React.js
 - Vue.js
 - Express.js
 - Spring.js
+- Node.js
 
 *Deployment*
 - Kubernetes
