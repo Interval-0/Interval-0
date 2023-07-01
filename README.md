@@ -1,6 +1,6 @@
 ### Hello, I'm Sangyup Han (Interval-0)
 
-#### Dev-Ops / PM @PHYLAXIS-NET
+#### CEO / Co-Founder @PHYLAXIS-NET
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intervalzero)](https://solved.ac/intervalzero/)
 
