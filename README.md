@@ -4,6 +4,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=intervalzero)](https://solved.ac/intervalzero/)
 
+<img src="https://render.gitanimals.org/farms/Interval-0"/>
+
 
 🛠️ Stacks
 
